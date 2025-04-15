@@ -1,0 +1,13 @@
+.headshot {
+  margin: auto;
+  width: 175x;
+  height: 175px;
+  border-radius: 100px;
+  margin-top: 10px;
+  border-radius: 100%;
+  border: 5px solid #528AAE;
+}
+
+.intro {
+    background-color: #E4F6F8;
+}
