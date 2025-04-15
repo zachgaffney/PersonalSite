@@ -11,3 +11,21 @@
 .intro {
     background-color: #E4F6F8;
 }
+
+.bottom-container {
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 40px;
+}
+
+body {
+  text-align: center;
+}
+
+.feature {
+  text-align: left;
+}
+
+.contact-section {
+  background-color: #E4F6F8;
+}
